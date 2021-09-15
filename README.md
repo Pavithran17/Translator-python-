@@ -14,20 +14,20 @@ After then you have choices to select language by their code
 Enter Sentence and you will get translated language
 
 ### Language options and their code
-Code	Language
-bn	Bangla
-en	English
-ko	Koren
-fr	French
-de	German
-he	Hebrew
-hi	Hindi
-it	Italian
-ja	Japanese
-la	Latin
-ms	Malay
-ne	Nepali
-ru	Russian
-ar	Arabic
-zh	Chinese
-es	Spanish
+####      Code	Language
+- bn	Bangla
+- en	English
+- ko	Koren
+- fr	French
+- de	German
+- he	Hebrew
+- hi	Hindi
+- it	Italian
+- ja	Japanese
+- la	Latin
+- ms	Malay
+- ne	Nepali
+- ru	Russian
+- ar	Arabic
+- zh	Chinese
+- es	Spanish
