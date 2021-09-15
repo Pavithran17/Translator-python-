@@ -2,10 +2,10 @@
 Google Translater Scripts
 Transalte one language to another language
 
-Requirements
+# Requirements
 you need to install below library using pip
 $ pip install googletrans
-Description
+## Description
 There are 16 languages you can translate into.
 How to run the script
 Execute python3 python translator.py
@@ -13,7 +13,7 @@ Execute python3 python translator.py
 After then you have choices to select language by their code
 Enter Sentence and you will get translated language
 
-Language options and their code
+### Language options and their code
 Code	Language
 bn	Bangla
 en	English
